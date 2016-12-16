@@ -1,0 +1,8 @@
+setwd("~/Projects/packageTest")
+source("https://bioconductor.org/biocLite.R")
+biocLite(c("devtools", "roxygen2", "testthat"))
+devtools::create("packageTest")
+setwd("~/Projects/packageTest/packageTest")
+devtools::use_code_of_conduct()
+devtools::use_readme_rmd()
+setwd("~/Projects/packageTest")
