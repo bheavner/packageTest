@@ -3,7 +3,9 @@
 packageTest
 ===========
 
-[![Travis-CI Build Status](https://travis-ci.org/.svg?branch=master)](https://travis-ci.org/) `packageTest` is a skeleton R package for my own learnining.
+[![Build Status](https://travis-ci.org/bheavner/packageTest.svg?branch=master)](https://travis-ci.org/bheavner/packageTest)
+
+`packageTest` is a skeleton R package for my own learnining.
 
 I'm starting a basic R package, with [devtools](https://cran.r-project.org/web/packages/devtools/index.html), testing with [testthat](https://cran.r-project.org/web/packages/testthat/index.html), documentation with [roxygen](https://cran.r-project.org/web/packages/roxygen2/index.html), and continuous integration with [Travis](https://travis-ci.org/).
 
@@ -33,7 +35,7 @@ Notes/procedure
 Meta
 ----
 
--   This skeleton includes a [Contributor Covenant](https://github.com/bheavner/packageTest/CONDUCT.md)
+-   This skeleton includes a [Contributor Covenant](https://github.com/bheavner/packageTest/blob/master/CONDUCT.md)
 -   Please [report any issues or bugs](https://github.com/bheavner/packageTest/issues).
 -   License: MIT
 
