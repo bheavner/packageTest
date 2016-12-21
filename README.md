@@ -3,7 +3,7 @@
 packageTest
 ===========
 
-[![Build Status](https://travis-ci.org/bheavner/packageTest.svg?branch=master)](https://travis-ci.org/bheavner/packageTest)
+[![Build Status](https://travis-ci.org/bheavner/packageTest.svg?branch=master)](https://travis-ci.org/bheavner/packageTest) [![Coverage Status](https://img.shields.io/coveralls/bheavner/packageTest.svg)](https://coveralls.io/r/bheavner/packageTest?branch=master)
 
 `packageTest` is a skeleton R package for my own learnining.
 
