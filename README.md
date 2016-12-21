@@ -3,7 +3,7 @@
 packageTest
 ===========
 
-[![Build Status](https://travis-ci.org/bheavner/packageTest.svg?branch=master)](https://travis-ci.org/bheavner/packageTest) [![Coverage Status](https://img.shields.io/coveralls/bheavner/packageTest.svg)](https://coveralls.io/r/bheavner/packageTest?branch=master)
+[![Build Status](https://travis-ci.org/bheavner/packageTest.svg?branch=master)](https://travis-ci.org/bheavner/packageTest) [![Coverage Status](https://coveralls.io/repos/github/bheavner/packageTest/badge.svg?branch=master)](https://coveralls.io/github/bheavner/packageTest?branch=master)
 
 `packageTest` is a skeleton R package for my own learnining.
 
@@ -32,5 +32,3 @@ Meta
 -   This skeleton includes a [Contributor Covenant](https://github.com/bheavner/packageTest/blob/master/CONDUCT.md)
 -   Please [report any issues or bugs](https://github.com/bheavner/packageTest/issues).
 -   License: MIT
-
-[![rofooter](http://ropensci.org/public_images/github_footer.png)](http://ropensci.org)
