@@ -17,9 +17,7 @@ knitr::opts_chunk$set(
 
 `packageTest` is a skeleton R package for my own learnining.
 
-I'm starting a basic R package, with [devtools](https://cran.r-project.org/web/packages/devtools/index.html), testing with [testthat](https://cran.r-project.org/web/packages/testthat/index.html), documentation with [roxygen](https://cran.r-project.org/web/packages/roxygen2/index.html), and continuous integration with [Travis](https://travis-ci.org/).
-
-This may perhaps also include checking test coverage with [covr](https://github.com/jimhester/covr/) and enforcing style with [lintr](https://github.com/jimhester/lintr)
+I'm starting a basic R package, with [devtools](https://cran.r-project.org/web/packages/devtools/index.html), testing with [testthat](https://cran.r-project.org/web/packages/testthat/index.html), documentation with [roxygen](https://cran.r-project.org/web/packages/roxygen2/index.html), and continuous integration with [Travis](https://travis-ci.org/). I've also added checking test coverage with [covr](https://github.com/jimhester/covr/) and [coveralls](https://coveralls.io/) and enforcing style with [lintr](https://github.com/jimhester/lintr)
 
 ## resources 
 * [markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) 
@@ -33,13 +31,7 @@ This may perhaps also include checking test coverage with [covr](https://github.
 
 
 ## Notes/procedure 
-* I'm working in Rstudio.
-* Need to use knitter to make the README.md in the package from the README.Rmd Not
-sure if CONDUCT.md should be in package or root directory (or if they should be
-the same).
-* I'm keeping some commands in History.R
-
-* I've got some tests in now, next up: travis! (Do I want to make devtools::document() part of the integration?)
+* I'm keeping some commands in History.txt
 
 ## Meta
 
