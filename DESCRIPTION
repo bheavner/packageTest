@@ -2,15 +2,14 @@ Package: packageTest
 Title: A skeleton package, to practice with testthat, roxygen, and travis
 Version: 0.0.0.9000
 Authors@R: person("Ben", "Heavner", email = "bheavner@gmail.com", role = c("aut", "cre"))
-Description: packageTest is a pretty minimal skeleton with just a few functions that
+Description: This is a pretty minimal skeleton with just a few functions that
     don't really do anything. The goal is to practice with roxygen, testthat,
-    and travis integration
+    and travis integration.
 Depends:
     R (>= 3.2.3)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
 Suggests: testthat,
-    covr,
     lintr
